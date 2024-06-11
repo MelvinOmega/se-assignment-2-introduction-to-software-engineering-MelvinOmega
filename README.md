@@ -34,10 +34,46 @@ PHASES
 
 Agile vs. Waterfall Models:
 
-Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Compare and contrast the Agile and Waterfall models of software development. 
+- In processing, waterfall is Linear while agile is iterative
+-In waterfall model, the risks are discovered late while in agile model, the risks are identified early
+- waterfall doesnt really emphasise on team collaboration unlike Agile model which emphasise on team collaboration
+
+
+
+What are the key differences, and in what scenarios might each be preferred?
+
+DIFFERENCES
+- Waterfall is less adaptive to changes while agile is flexible and adapts to changes
+- Waterfall limits customer involvement while agile requires a continous customer feedback and collaboration
+- Testing in waterfall is done after implementation while in agile, there is a continous testing
+
+SCENARIOS
+- Waterfall can be prefered when creating an tool for a company with a stable business since the project is less prone to changes
+- Waterfall can be prefered when creating a system that requires each phase to be completed first before going to the next phase
+-Agile can be used to develop mobile apps where the user prefrerences can change from time to time
+- 
+
+
 Requirements Engineering:
 
-What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+What is requirements engineering? 
+- This is a phase in software development that involves identification, documentation, and management of the requirements for a system
+
+Describe the process and its importance in the software development lifecycle.
+
+- Requirement gathering- gathering information from stakeholders to get their needs using surveys or conducting interviews
+- Requirement analysis- this is analysing the gathered requirements and categorizing them into functional and non functional.
+- Requirement specification- This is documenting the analyzed requitements into a detailed manner
+- Requirement validation- checking whether the requirements that are documented meet the needs of the stakeholder
+- Requirements management- This is managing the changes throughout the project
+
+Importance
+- There is a clear understanding of the stakeholder needs
+- There is a better communication among developers and stakeholders 
+- A higher quality software is produced due to a well defined requirements
+- There is reduced development costs since issues are identified early and addressed
+
 Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
